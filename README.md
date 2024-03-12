@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koushik Raja
 - 👀 I’m interested in freelancing
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
-- 📫 For details Contact at koushikrajja770@gmail.com
+- 📫 For details Contact at koushikraja770@gmail.com
 
 
 <!---
