@@ -13,4 +13,4 @@ With hands-on experience in **drone-based feature extraction**, **Power Apps aut
 
 ### 📫 How to Reach Me:
 - 🔗 [LinkedIn](www.linkedin.com/in/koushik-raja-2004-8484893f)
-- 📧 Email: [**koushikrajar@example.com**](mailto:koushikraja770@gmail.com)
+- 📧 Email: [**koushikraja770@gmail.com**](mailto:koushikraja770@gmail.com)
